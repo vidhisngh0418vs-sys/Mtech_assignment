@@ -1,4 +1,3 @@
-# Mtech_assignment
 # 🌍 Global Fuel Affordability & Price Intelligence System
 
 ## 📌 Overview
